@@ -4,7 +4,7 @@
 
 ***The following shows the steps for successful execution of this game application:***
 
-1. Keep all the images(in .png form) in a seperate folder and name it as 'asset'.
+1. Keep all the images(in .png form) in a seperate folder and name it as 'assets'.
 2. Keep all the sound files in a seperate folder and name it as 'sound'.
 3. Put all these folder including all the Java files in a single folder and name it according to your choice.
 4. The execution of the program should be done through 'Main' named file as it contains the main method.
